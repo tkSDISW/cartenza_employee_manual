@@ -1,0 +1,14 @@
+{
+  "package": "getting_started",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
+      "type": "note",
+      "timestamp": "2026-08-25T01:12:35Z",
+      "title": "## Which MCP Server Do I Use?",
+      "tags": [],
+      "file_path": "entries/note-0001-904c9fb38e654fbeb3e23716f1b99f74.md"
+    }
+  ]
+}
