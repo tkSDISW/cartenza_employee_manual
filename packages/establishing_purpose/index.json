@@ -1,6 +1,6 @@
 {
   "package": "establishing_purpose",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-b604d65c056f408e98f72631333382d8",
@@ -17,6 +17,14 @@
       "title": "## The Trigger \u2014 and How to Run the Extraction",
       "tags": [],
       "file_path": "entries/note-0002-bb86f53354c049bd888817ab8dbcdeed.md"
+    },
+    {
+      "id": "note-0003-14858b140644465db5426c72529b11b0",
+      "type": "note",
+      "timestamp": "2026-08-25T11:15:31Z",
+      "title": "## Extraction Patterns \u2014 Real Shapes to Recognize and Adapt",
+      "tags": [],
+      "file_path": "entries/note-0003-14858b140644465db5426c72529b11b0.md"
     }
   ]
 }
