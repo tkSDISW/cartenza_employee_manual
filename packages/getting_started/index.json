@@ -1,6 +1,6 @@
 {
   "package": "getting_started",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
@@ -9,6 +9,14 @@
       "title": "## Which MCP Server Do I Use?",
       "tags": [],
       "file_path": "entries/note-0001-904c9fb38e654fbeb3e23716f1b99f74.md"
+    },
+    {
+      "id": "note-0002-43ac049cf2fb44b7a40d43f57c16f521",
+      "type": "note",
+      "timestamp": "2026-08-25T01:12:58Z",
+      "title": "## What Is This Manual, and How Should You Use It?",
+      "tags": [],
+      "file_path": "entries/note-0002-43ac049cf2fb44b7a40d43f57c16f521.md"
     }
   ]
 }
