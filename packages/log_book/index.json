@@ -1,0 +1,14 @@
+{
+  "package": "log_book",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-534fd0fb9c424e48926c1e321d1b4cc6",
+      "type": "note",
+      "timestamp": "2026-08-25T01:13:14Z",
+      "title": "## Level 1 \u2014 The Log Book: Don't Lose What Already Happened",
+      "tags": [],
+      "file_path": "entries/note-0001-534fd0fb9c424e48926c1e321d1b4cc6.md"
+    }
+  ]
+}
