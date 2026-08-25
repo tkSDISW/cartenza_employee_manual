@@ -1,6 +1,6 @@
 {
   "package": "getting_started",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
@@ -17,6 +17,14 @@
       "title": "## What Is This Manual, and How Should You Use It?",
       "tags": [],
       "file_path": "entries/note-0002-43ac049cf2fb44b7a40d43f57c16f521.md"
+    },
+    {
+      "id": "bcfg-0001-03f1065927aa4de8aecd37c8c4e524c9",
+      "type": "behavior_config",
+      "timestamp": "2026-08-25T01:14:23Z",
+      "title": "## behavior_config \u2014 Cartenza Employee Manual (`tkSDISW/cartenza_employee_manual`)",
+      "tags": [],
+      "file_path": "entries/bcfg-0001-03f1065927aa4de8aecd37c8c4e524c9.md"
     }
   ]
 }
