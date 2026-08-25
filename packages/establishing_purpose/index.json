@@ -1,6 +1,6 @@
 {
   "package": "establishing_purpose",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-b604d65c056f408e98f72631333382d8",
@@ -9,6 +9,14 @@
       "title": "## Establishing a Repo's Purpose and Behavior Config \u2014 Why This Matters",
       "tags": [],
       "file_path": "entries/note-0001-b604d65c056f408e98f72631333382d8.md"
+    },
+    {
+      "id": "note-0002-bb86f53354c049bd888817ab8dbcdeed",
+      "type": "note",
+      "timestamp": "2026-08-25T11:15:02Z",
+      "title": "## The Trigger \u2014 and How to Run the Extraction",
+      "tags": [],
+      "file_path": "entries/note-0002-bb86f53354c049bd888817ab8dbcdeed.md"
     }
   ]
 }
