@@ -1,6 +1,6 @@
 {
   "package": "getting_started",
-  "entry_count": 7,
+  "entry_count": 8,
   "entries": [
     {
       "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
@@ -57,6 +57,14 @@
       "title": "vibe: classic",
       "tags": [],
       "file_path": "entries/nbcfg-0001-0b43a4abc1be405b9645458ee803d0c9.md"
+    },
+    {
+      "id": "note-0006-540a1262f9bc4c4c8cbf2c992910c6e6",
+      "type": "note",
+      "timestamp": "2026-09-15T01:27:25Z",
+      "title": "## Seeing Your Repo's Config: the Chips on the Notebook View",
+      "tags": [],
+      "file_path": "entries/note-0006-540a1262f9bc4c4c8cbf2c992910c6e6.md"
     }
   ]
 }
