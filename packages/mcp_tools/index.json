@@ -1,6 +1,6 @@
 {
   "package": "mcp_tools",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-d1f828f110c143f8966cbda76ee59a48",
@@ -9,6 +9,14 @@
       "title": "## Working Through MCP Tools \u2014 Where Cartenza's Value Shows Up",
       "tags": [],
       "file_path": "entries/note-0001-d1f828f110c143f8966cbda76ee59a48.md"
+    },
+    {
+      "id": "note-0002-48086313c72d4643bf58e4cd5d09f626",
+      "type": "note",
+      "timestamp": "2026-09-15T14:20:34Z",
+      "title": "## capella-fabric: What It Is and How to Connect",
+      "tags": [],
+      "file_path": "entries/note-0002-48086313c72d4643bf58e4cd5d09f626.md"
     }
   ]
 }
