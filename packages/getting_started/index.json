@@ -1,6 +1,6 @@
 {
   "package": "getting_started",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "id": "note-0001-904c9fb38e654fbeb3e23716f1b99f74",
@@ -41,6 +41,14 @@
       "title": "## purpose \u2014 Cartenza Member Handbook",
       "tags": [],
       "file_path": "entries/note-0004-202409c3158044ac932aa494f51d6130.md"
+    },
+    {
+      "id": "note-0005-93393d94f99d40c39aaa0d5bb51e05ea",
+      "type": "note",
+      "timestamp": "2026-09-15T00:28:59Z",
+      "title": "## Every Repo Has a Purpose and a Calibration \u2014 Find Them Before You Write",
+      "tags": [],
+      "file_path": "entries/note-0005-93393d94f99d40c39aaa0d5bb51e05ea.md"
     }
   ]
 }
