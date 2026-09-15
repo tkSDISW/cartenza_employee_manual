@@ -1,6 +1,6 @@
 {
   "package": "mcp_tools",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "note-0001-d1f828f110c143f8966cbda76ee59a48",
@@ -25,6 +25,14 @@
       "title": "## capella-fabric: Reading and Changing a Model Safely",
       "tags": [],
       "file_path": "entries/note-0003-7b188535586c4674a3921a7e0941a449.md"
+    },
+    {
+      "id": "note-0004-9c4d178aacf54740b808ae7f99b9d4d4",
+      "type": "note",
+      "timestamp": "2026-09-15T14:21:04Z",
+      "title": "## capella-fabric: What It Won't Do, and Why",
+      "tags": [],
+      "file_path": "entries/note-0004-9c4d178aacf54740b808ae7f99b9d4d4.md"
     }
   ]
 }
